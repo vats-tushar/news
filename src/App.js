@@ -12,7 +12,7 @@ import BottomOptions from './components/BottomOptions';
 
 const App =()=> {
   const pageSize=6;
-  const apiKey=process.env.REACT_APP_NEWS_API;
+  const apiKey='f4a6cda848a54f5c8610c3ca6b005732';
   const [progress, setProgress] = useState(0);
   const [mode, setMode] = useState('light');
     
