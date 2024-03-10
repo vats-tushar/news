@@ -1,0 +1,10 @@
+#botnav{
+    margin: auto;
+    overflow-x: scroll;
+}
+#botnav::-webkit-scrollbar{
+    display: none;
+}
+#bott{
+    padding: 0 !important;
+}
